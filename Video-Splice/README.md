@@ -50,7 +50,7 @@
    ```
 4. **准备模型权重**：
 
-   - 将预训练模型文件（`spatial_warp.pth`、`temporal_warp.pth`、`smooth_warp.pth`）放置于 `full_model_ssd` 目录下。
+   - 将预训练模型文件（`spatial_warp.pth`、`temporal_warp.pth`、`smooth_warp.pth`）放置于 `full_model_ssd` 目录下。[google](https://drive.google.com/drive/folders/1KKh0vyqYm3btoKY2TySYjy_DVX2iSxsm)
    - 确保路径与代码中的 `MODEL_DIR` 配置一致。
 
 ---
