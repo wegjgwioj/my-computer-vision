@@ -1,8 +1,0 @@
-torch
-torchvision
-opencv-python
-flask
-numpy
-einops
-scikit-image
-gunicorn
