@@ -26,3 +26,9 @@
 这些项目覆盖不同场景，如实时性（Real-time-video-stitching）、沉浸式VR（stitchEm/stitchEm）和深层学习（UDIS2）。用户可根据需求选择，如研究实时算法可优先考虑前者，探索深层学习可选择UDIS2。注意，部分项目（如ImageStitching）专注于图像拼接，但通过逐帧处理可扩展至视频。
 
 # 我的学习日志
+
+
+| Date    | OutCome                                                |  |
+| ------- | ------------------------------------------------------ | - |
+| 2024-04 | [ImageStitching](./Video-Splice/ImageStitching-master) |  |
+|         |                                                        |  |
