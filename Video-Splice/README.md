@@ -6,8 +6,6 @@
 * **实时视频拼接**：如《Real-Time Video Stitching Using Camera Path Estimation and Homography Refinement》，聚焦实时性 ([Real-Time Video Stitching Using Camera Path Estimation and Homography Refinement](https://www.mdpi.com/2073-8994/10/1/4))。
 * **深层学习方法**：如《Parallax-Tolerant Unsupervised Deep Image Stitching》，展示最新深层学习技术 ([Parallax-Tolerant Unsupervised Deep Image Stitching](https://arXiv.org/abs/2302.08207))。
 
-这些论文可帮助理解视频拼接的挑战，如动态对象、视差和实时性需求。
-
 ## GitHub项目分析
 
 以下GitHub项目提供可复现的代码，适合用户实践和验证。项目通常包括安装说明和示例，但可能需要技术背景调整。以下为推荐列表及其特点：
@@ -23,12 +21,14 @@
 | ImageStitching            | [https://github.com/WillBrennan/Imagestitching](https://github.com/WillBrennan/Imagestitching)               | 从视频生成3D全景，适合高分辨率文档扫描，简单易用。                         | 视频到全景，初学者实践。                                           |
 | StabStitch                | [https://github.com/nie-lang/StabStitch.git](https://github.com/nie-lang/StabStitch.git)                     | StabStitch是一个前沿的视频拼接工具，特别适合研究无监督学习和在线处理的学者 | 专注于无监督在线视频拼接，旨在消除拼接视频中非重叠区域的抖动问题。 |
 
-这些项目覆盖不同场景，如实时性（Real-time-video-stitching）、沉浸式VR（stitchEm/stitchEm）和深层学习（UDIS2）。用户可根据需求选择，如研究实时算法可优先考虑前者，探索深层学习可选择UDIS2。注意，部分项目（如ImageStitching）专注于图像拼接，但通过逐帧处理可扩展至视频。
+这些项目覆盖不同场景，如实时性（Real-time-video-stitching）、沉浸式VR（stitchEm/stitchEm）和深层学习（UDIS2）。
 
 # 我的学习日志
 
 
-| Date    | OutCome                                                |  |
-| ------- | ------------------------------------------------------ | - |
-| 2024-04 | [ImageStitching](./Video-Splice/ImageStitching-master) |  |
-|         |                                                        |  |
+| Date    | OutCome                                                | Original hub                                                  | MyNote                                            |
+| ------- | ------------------------------------------------------ | ------------------------------------------------------------- | ------------------------------------------------- |
+| 2024-04 | [ImageStitching](./Video-Splice/ImageStitching-master) | [Original hub](https://github.com/WillBrennan/Imagestitching) | [Readme](./Video-Splice/ImageStitching/readme.md) |
+| 2024-05 | 仅本地复现（待上传）                                   | [Original hub](https://github.com/nie-lang/UDIS2)             | [Readme](Video-Splice/UDIS2-note/README.md)       |
+| 2025-1  |                                                        | [Original hub](https://github.com/nie-lang/StabStitch.git)    |                                                   |
+|         |                                                        |                                                               |                                                   |
